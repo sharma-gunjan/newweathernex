@@ -2,6 +2,8 @@ streamlit
 pandas
 numpy
 requests
-scikit-learn
 plotly
+scikit-learn
 joblib
+folium
+streamlit-folium
